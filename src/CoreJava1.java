@@ -41,6 +41,9 @@ public class CoreJava1 {
 		System.out.println("HelloX2");
 		System.out.println("jehfvjwhbvfjwv");
 		System.out.println("ewkjfkjabvak");
+		System.out.println("*********************************************88");
+
+		
 
 
 		
