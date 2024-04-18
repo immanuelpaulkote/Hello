@@ -36,6 +36,10 @@ public class CoreJava1 {
 		int[] arr2= {1,2,3,4,5,6,7,8,9};
 		List<int[]> nameArrayList=Arrays.asList(arr2);
 		System.out.println(nameArrayList.contains(2));
+		System.out.println("Hello");
+		System.out.println("HelloX1");
+		System.out.println("HelloX2");
+		
 		
 		
 
