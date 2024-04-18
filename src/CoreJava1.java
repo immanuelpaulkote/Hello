@@ -39,7 +39,10 @@ public class CoreJava1 {
 		System.out.println("Hello");
 		System.out.println("HelloX1");
 		System.out.println("HelloX2");
-		
+		System.out.println("jehfvjwhbvfjwv");
+		System.out.println("ewkjfkjabvak");
+
+
 		
 		
 

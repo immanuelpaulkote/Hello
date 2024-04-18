@@ -17,5 +17,7 @@ public class CoreJava3 {
 		System.out.println("Hai");
 	}
 	
+	System.out.println("wkjbkjabdvk");
+
 
 }

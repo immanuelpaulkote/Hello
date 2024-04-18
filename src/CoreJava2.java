@@ -11,6 +11,8 @@ public class CoreJava2 {
 		for(int i=s3.length()-1;i>=0;i--) {
 			System.out.println(s3.charAt(i));
 		}
+		System.out.println("ekjbsajkdfb,df");
+
 		
 		
 
